@@ -1,36 +1,28 @@
-# Joo
-profile
+# Jaehyeon Joo
  
-반도체 공정 데이터에 관심이 많은 석사 1학기 대학원생 입니다.  
-https://titanumm.tistory.com/109?category=957662  
-연세대학교 SIL 연구실에서 제조 데이터 관련해서 공부하고 있습니다.  
-http://isd.yonsei.ac.kr/news/?mod=document&uid=3
+연세대학교 SIL 연구실 석사 2학기
+http://isd.yonsei.ac.kr/
 
-
-#### Interest
+#### 관심분야
 + Data Science In Semicondutor Manufacturing
-+ Remmomandation System
++ Fault Detection and Classification
 + Anomaly Detection
++ Unknown Fault Classification
 
-#### Awards & Competition
-|기간|주관사|대회명|순위|
-|--------|--------|------|------|
-|2021 04 ~ 2021 05|DACON & 한국원자력연구원|로그 분석을 통한 보안 위험도 예측 AI 경진대회|Private 1등|
-|2021 01 ~ 2021 02|DACON & LG|시스템 품질 변화로 인한 사용자 불편 AI 경진대회|Top 6%|
-|2020 10 ~ 2020 12|NIPA|2020 인공지능 문제해결 경진대회 하나카드 매출 예측 부분|3위 수상|
-|2020 09 ~ 2020 12|챌린지온|사이버 보안 챌린지 2020 자동차 해킹 공격/방어 챌린지|5위|
+#### Work experience
+|기간|소속|직위|
+|--------|--------|------|
+|2020 08 ~ Current|연세대학교 산업공학과 SIL 연구실|석사 과정|
+|2021 08 ~ Current|연세대학교 반도체 데이터사이언스 학과|연구 조교|
+|2018 09 ~ 2020 08|연세대학교 산업공학과 SIL 연구실|학부 연구생|
+|2014 03 ~ 2020 08|연세대학교 정보산업공학과|학부 학생|
 
-
-#### Work & Project experience
-|기간|소속|내용|참여과제|
-|--------|--------|------|------|
-|2021 01 ~ Current|연세대학교 산업공학과 SIL 연구실|석사 과정|
-|2020 09 ~ 2020 12|한국전자부품연구원|위촉 연구원|차세대 보안 R&D 선행 연구|
-|2020 06 ~ 2020 12|홍익대학교 컴퓨터공학과 APL 연구실|학부 연구생|신교통수단에 대한 도시 맞춤형 공유 서비스 배차지원 기술 개발|
-
-#### Activities
-|기간|소속|활동|
+#### Activities & Research
+|기간|소속|산학과제/연구내용|
 |--------|-------|-----|
-|2020 03 ~ 2021 02|홍익대학교 제 2 기숙사|사생회 및 층장 활동|
-|2017 09 ~ 2018 02|발표동아리 스프링|30기|
-|2016 03 ~ 2017 02|창업동아리 윔팩|1기 기수 & 2기 운영진|
+|2020 09 ~ Current|연세대학교 산업공학과 SIL 연구실|Convolutional Neural Networks with Triplet Loss for Unknown Wafer Surface Defect Detection| 
+|2020 09 ~ 2020 12|연세대학교 산업공학과 SIL 연구실|대한광통신- 설비 최적 운전을 위한 AI 모델링| 
+|2020 06 ~ 2021 08|연세대학교 산업공학과 인공지능 최적화|Control of Defective Items in Multi-phase Manufacturing system with Selling Price Dependent Demand|
+|2020 05 ~ Current|연세대학교 산업공학과 SIL 연구실|에너지 다소비업종 대상 공장에너지 관리시스템 기술 개발 및 실증|
+|2018 09 ~ 2020 08|연세대학교 산업공학과 SIL 연구실|Convolutional Neural Networks with Triplet Loss for Unknown Wafer Surface Defect Detection|
+|2015 03 ~ 2015 08|동원 Global Explorer|도시 브랜딩|
