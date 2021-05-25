@@ -20,7 +20,6 @@ http://isd.yonsei.ac.kr/
 #### Activities & Research
 |기간|소속|산학과제/연구내용|
 |--------|-------|-----|
-|2020 09 ~ Current|연세대학교 산업공학과 SIL 연구실|Convolutional Neural Networks with Triplet Loss for Unknown Wafer Surface Defect Detection| 
 |2020 09 ~ 2020 12|연세대학교 산업공학과 SIL 연구실|대한광통신- 설비 최적 운전을 위한 AI 모델링| 
 |2020 06 ~ 2021 08|연세대학교 산업공학과 인공지능 최적화|Control of Defective Items in Multi-phase Manufacturing system with Selling Price Dependent Demand|
 |2020 05 ~ Current|연세대학교 산업공학과 SIL 연구실|에너지 다소비업종 대상 공장에너지 관리시스템 기술 개발 및 실증|
